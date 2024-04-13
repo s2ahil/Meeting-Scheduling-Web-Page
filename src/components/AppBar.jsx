@@ -31,9 +31,9 @@ const AppBar = () => {
                 <div className="border-2 cursor-pointer p-2 border-black bg-black text-white rounded-sm" >
                     Signup
                 </div>
-                <div className="border-2 cursor-pointer p-2  text-gray-800 rounded-sm" >
+{/*                 <div className="border-2 cursor-pointer p-2  text-gray-800 rounded-sm" >
                     Login
-                </div>
+                </div> */}
                 </div>
             </div>
 
